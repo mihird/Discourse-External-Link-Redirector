@@ -1,0 +1,7 @@
+plugins:
+  redirector_enabled:
+    default: true
+    client: true
+  redirector_processor_url:
+    default: 'https://goto.ideasquarelab.com/'
+    client: true

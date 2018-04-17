@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    redirector_enabled: "Enable the affiliate plugin. If you change this, you must rebake all posts with: \"rake posts:rebake\"."
+    redirector_processor_url: "Your affiliate processor url (prefix)"
